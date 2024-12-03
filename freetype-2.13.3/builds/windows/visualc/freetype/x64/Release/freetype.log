@@ -1,0 +1,87 @@
+﻿  autofit.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\autofit\ft-hb.c(27,10): error C1083: Cannot open include file: 'freetype/freetype.h': No such file or directory
+  ftbase.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftadvanc.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftbbox.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftbbox.c(27,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftbdf.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftbdf.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftbitmap.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftbitmap.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftcid.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftcid.c(19,10): error C1083: Cannot open include file: 'freetype/ftcid.h': No such file or directory
+  ftfstype.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftfstype.c(18,10): error C1083: Cannot open include file: 'freetype/t1tables.h': No such file or directory
+  ftgasp.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftgasp.c(19,10): error C1083: Cannot open include file: 'freetype/ftgasp.h': No such file or directory
+  ftglyph.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftglyph.c(31,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftgxval.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftgxval.c(28,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftinit.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftinit.c(40,10): error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  ftmm.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftmm.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftotval.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftotval.c(18,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftpatent.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftpatent.c(19,10): error C1083: Cannot open include file: 'freetype/freetype.h': No such file or directory
+  ftpfr.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftpfr.c(18,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftstroke.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftstroke.c(19,10): error C1083: Cannot open include file: 'freetype/ftstroke.h': No such file or directory
+  ftsynth.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftsynth.c(19,10): error C1083: Cannot open include file: 'freetype/ftsynth.h': No such file or directory
+  fttype1.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\fttype1.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  ftwinfnt.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\base\ftwinfnt.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  bdf.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\bdf\bdflib.c(35,10): error C1083: Cannot open include file: 'freetype/freetype.h': No such file or directory
+  Generating Code...
+  Compiling...
+  ftcache.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\cache\ftcbasic.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftobjs.h': No such file or directory
+  cff.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\cff\cffcmap.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  type1cid.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\cid\cidload.h(23,10): error C1083: Cannot open include file: 'freetype/internal/ftstream.h': No such file or directory
+  ftgzip.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\gzip\ftgzip.c(23,10): error C1083: Cannot open include file: 'freetype/internal/ftmemory.h': No such file or directory
+  ftlzw.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\lzw\ftlzw.c(24,10): error C1083: Cannot open include file: 'freetype/internal/ftmemory.h': No such file or directory
+  pcf.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\pcf\pcfdrivr.c(29,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  pfr.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\pfr\pfrcmap.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  psaux.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\psaux\afmparse.c(18,10): error C1083: Cannot open include file: 'freetype/freetype.h': No such file or directory
+  pshinter.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\pshinter\pshalgo.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftobjs.h': No such file or directory
+  psmodule.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\psnames\psmodule.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  raster.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\raster\ftraster.h(23,10): error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  sdf.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\sdf\ftsdfrend.c(21,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  sfnt.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\sfnt\pngshim.c(20,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  smooth.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\smooth\ftgrays.c(281,10): error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  svg.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\svg\svgtypes.h(21,10): error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  truetype.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\truetype\ttdriver.c(19,10): error C1083: Cannot open include file: 'freetype/internal/ftdebug.h': No such file or directory
+  type1.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\type1\t1objs.h(23,10): error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  type42.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\type42\t42drivr.h(23,10): error C1083: Cannot open include file: 'freetype/internal/ftdrv.h': No such file or directory
+  winfnt.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\src\winfonts\winfnt.c(21,10): error C1083: Cannot open include file: 'freetype/ftwinfnt.h': No such file or directory
+  ftdebug.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\builds\windows\ftdebug.c(44,10): error C1083: Cannot open include file: 'freetype/freetype.h': No such file or directory
+  Generating Code...
+  Compiling...
+  ftsystem.c
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\builds\windows\ftsystem.c(19,10): error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  Generating Code...

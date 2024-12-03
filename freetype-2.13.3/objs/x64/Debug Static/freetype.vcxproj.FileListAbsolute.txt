@@ -1,0 +1,1 @@
+C:\Users\Aleksa\Desktop\grafika\RadioProject\freetype-2.13.3\objs\x64\Debug Static\freetype.lib
