@@ -594,6 +594,8 @@ int main() {
             drawRect(0.0f, -0.6f, 0.3f, 0.2f, 0.8f, 0.0f, 0.0f);
         }
 
+        renderText(u8"Aleksa Janjic SV58/2021", -0.9f, 0.83f, 0.002f, 1.0f, 1.0f, 1.0f);
+        
         glfwSwapBuffers(window);
         glfwPollEvents();
 
